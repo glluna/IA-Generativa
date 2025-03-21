@@ -1,5 +1,5 @@
 # Projeto de IA-Generativa
-Este projeto é voltado para o uso de ferramentas de IA generativa, incluindo o Copilot e ChatGPT e Leonardo.IA. Ele 
+Este projeto é voltado para o uso de ferramentas de IA generativa, incluindo o Copilot e ChatGPT. Ele 
 explora como essas ferramentas  podem ser aplicadas para criar conteúdo gerado automaticamente, como código, imagens 
 e outras saídas criativas.
 
@@ -10,3 +10,6 @@ e outras saídas criativas.
 - Acesse a interface do ChatGPT em seu navegador ou por meio de uma API.
 - Forneça instruções claras sobre o que deseja gerar (por exemplo, uma descrição, código, etc.).
 - O ChatGPT responderá com sugestões ou exemplos que podem ser facilmente adaptados.
+
+# Exemplo de uso 
+Aqui foi uma criação de imagem de uma sonda espacial realista utilizando o ChatGPT.
