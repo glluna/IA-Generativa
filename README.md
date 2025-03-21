@@ -15,3 +15,7 @@ e outras saídas criativas.
 Aqui foi uma criação de imagem de uma sonda espacial realista utilizando o ChatGPT.
 
 ![alt text](<Sonda Espacial-1.webp>)
+
+# Conclusão 
+- É notório como as IAs vem evoluindo no decorrer dos anos mostrando várias funcinalidade como a criação realista de imagens , simulações de vozes de pessoas reais,
+- detecção de emoções, interação com o usuário e etc. As possibilidades são infinitas.
