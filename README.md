@@ -13,3 +13,5 @@ e outras saídas criativas.
 
 # Exemplo de uso 
 Aqui foi uma criação de imagem de uma sonda espacial realista utilizando o ChatGPT.
+
+![alt text](<Sonda Espacial-1.webp>)
